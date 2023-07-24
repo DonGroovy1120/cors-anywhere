@@ -12,7 +12,7 @@ cookies. Requesting [user credentials](http://www.w3.org/TR/cors/#user-credentia
 The app can be configured to require a header for proxying a request, for example to avoid
 a direct visit from the brows
 ## Example
-wew22
+wew2
 ```javascript
 // Listen on a specific host va the HOST environment variable
 var host = process.env.HOST || '0.0.0.0';
