@@ -11,7 +11,6 @@ This package does not put any restrictions on the http methods or headers, excep
 cookies. Requesting [user credentials](http://www.w3.org/TR/cors/#user-credentials) is disallowed.
 The app can be configured to require a header for proxying a request, for example to avoid
 a direct visit from the browser.
-
 ## Example
 
 ```javascript
