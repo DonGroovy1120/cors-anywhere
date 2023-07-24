@@ -16,7 +16,7 @@ wew2
 ```javascript
 // Listen on a specific host va the HOST environment variable
 var host = process.env.HOST || '0.0.0.0';
-// Listen on a specific port via the PORT environment variable
+// Listen on a specific port via the PORT envqwqwironment variable
 var port = process.env.PORT || 8080;
 
 var cors_proxy = require('cors-anywhere');
