@@ -10,7 +10,7 @@ the protocol defaults to "https".
 This package does not put any restrictions on the http methods or headers, except for
 cookies. Requesting [user credentials](http://www.w3.org/TR/cors/#user-credentials) is disallowed.
 The app can be configured to require a header for proxying a request, for example to avoid
-a direct visit from the browser.
+a direct visit from the brows
 ## Example
 
 ```javascript
